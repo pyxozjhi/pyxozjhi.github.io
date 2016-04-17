@@ -1,6 +1,6 @@
 = Joseph Nguyen
 :hp-tags: personal
 
- 1.1 About me
- -------
- *Test.*
+## 1.1 Biography
+
+video::https://i.imgur.com/nIZfmHU.gifv[]
