@@ -1,5 +1,3 @@
 = Introduction
-:hp-tags: fusce, rhoncus, nisi, massa
+:hp-tags: personal
 
-
-My name is 
