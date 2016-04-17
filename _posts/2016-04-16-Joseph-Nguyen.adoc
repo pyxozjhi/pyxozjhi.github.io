@@ -1,5 +1,5 @@
 = Joseph Nguyen
-:hp-tags: personal
+:hp-tags:
 
 ## 1.1 Biography
 
