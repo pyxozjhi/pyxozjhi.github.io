@@ -1,6 +1,3 @@
 = Lorem ipsum
 :hp-tags:
 
-## 1.1 Biography
-
-video::https://i.imgur.com/nIZfmHU.gifv[]
