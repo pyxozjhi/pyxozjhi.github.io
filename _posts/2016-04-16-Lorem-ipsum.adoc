@@ -1,4 +1,4 @@
-= Joseph Nguyen
+= Lorem ipsum
 :hp-tags:
 
 ## 1.1 Biography
