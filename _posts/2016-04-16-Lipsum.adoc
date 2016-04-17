@@ -1,4 +1,6 @@
 = Lipsum
 :hp-tags: fusce, rhoncus, nisi, massa
 
+image::logo.png[]
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ac tincidunt magna. Proin eget augue vitae eros dictum congue. Fusce erat risus, sodales in auctor sit amet, commodo id nulla. Praesent viverra ante a est laoreet pellentesque. Praesent nisi quam, egestas eleifend vehicula et, efficitur at tortor. Phasellus pretium faucibus metus, quis feugiat justo commodo et. Pellentesque interdum tellus vitae justo imperdiet, id tempor ipsum auctor. Mauris maximus arcu vitae tincidunt pretium. Phasellus risus quam, malesuada quis nulla in, semper gravida massa. Sed et lacus quis dolor accumsan accumsan in sit amet justo. Mauris ut urna pellentesque, mattis augue nec, posuere leo.
