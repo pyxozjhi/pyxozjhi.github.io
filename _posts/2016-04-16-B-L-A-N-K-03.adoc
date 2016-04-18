@@ -1,4 +1,1 @@
-= Installing Debian on the MacBook Air
-
-:hp-tags: linux, debian
-
+= BLANK_03
