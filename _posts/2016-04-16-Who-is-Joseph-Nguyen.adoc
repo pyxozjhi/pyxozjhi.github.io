@@ -1,15 +1,11 @@
-= This is all we are
+= Who is Joseph Nguyen?
 :hp-tags: personal, bio
 
-# 1. Profile
+# He hates writing about himself
 
-* Name: Joseph Nguyen
-* Email: pyxozjhi@protonmail.com
+I'm an *IT professional* living in *San Francisco*.
 
-# 2. Recommended reading
+link::http://phrack.org/issues/7/3.html[cyberpunks]
 
-# 2.1 Feedly
-
-# 2.2 Pocket
-
-# 2.3 YouTube
+# He knows who he is and what he wants
+# He 
