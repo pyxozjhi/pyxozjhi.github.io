@@ -1,9 +1,9 @@
 = Who is this Joseph?
 :hp-tags: personal, bio, contact
 
-I'm an *IT professional* living in *San Francisco*. For the time being, this blog will center around my beginnings in reverse engineering and packet analysis.
+I'm an *IT professional* living in *San Francisco*. Besides various topics, this blog will mostly center around my beginnings in reversing and packet analysis.
 
-My fascination for hacking came at a young age when _phreaking_, _warez_, and _leetspeak_ were still relevant to the internet underground. To no surprise, what once was believed to be a delinquent act carried out by cyberpunks would eventually find its acceptance by our culture, not only as a necessity, but also as an academic and socially integrated practice. And as the space further evolved into this rich and complex admixture of disciplines, it became an imperative for me to get more involved. Once my purpose came to fruition, I embarked upon a journey to finally pursue what is known today as _cybersecurity_.
+My fascination for hacker culture came at a young age when words like _phreak_, _cracker_, and _leet_ were still relevant to the underground colloquial. In the past decade, _hacking_, a term once used by media to describe the delinquent activities of cyberpunks, eventually matured into the socially integrated practice we see today. It has grown to the point of becoming an academic study but, more interestingly, a tool fundamental to our survival. It is indeed by necessity that hacking has evolved into such a rich and interconnected admixture of disciplines.
 
 Ping me at pyxozjhi@protonmail.com
 
