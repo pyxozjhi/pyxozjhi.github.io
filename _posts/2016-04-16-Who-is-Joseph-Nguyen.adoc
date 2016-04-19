@@ -1,7 +1,7 @@
 = Who is Joseph Nguyen?
 :hp-tags: personal, bio
 
-I'm an *IT professional* living in *San Francisco*. For the time being, these notes will center around my ventures into reversing and packet analysis.
+I'm an *IT professional* living in *San Francisco*. For the time being, these notes will center around my newfound venture into reversing and packet analysis.
 
 ### My crime is that of curiosity
 
