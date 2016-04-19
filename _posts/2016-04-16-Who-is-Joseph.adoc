@@ -7,7 +7,7 @@ My passion for hacking came at a young age when "2600", "Warez" and "Sub7" were 
 
 ### Nota bene
 
-Alongside my study material, my news feeds are obviously security-related. I made some of these collections available for you to peruse.
+Alongside my study material, it's obvious that my news feeds would be security-related. I made some of those collections available for you to peruse.
 
 * link::https://feedly.com/pyxozjhi[Feedly]
 * link::http://sharedli.st/pyxozjhi[Pocket]
