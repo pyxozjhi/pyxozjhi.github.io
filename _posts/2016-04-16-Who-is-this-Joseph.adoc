@@ -1,4 +1,4 @@
-= Who is Joseph?
+= Who is this Joseph?
 :hp-tags: personal, bio, contact
 
 I'm an *IT professional* living in *San Francisco*. For the time being, this blog will center around my newfound ventures in reversing and packet analysis.
