@@ -3,7 +3,7 @@
 
 I'm an *IT professional* living in *San Francisco*. This blog will center mostly around my beginnings in cybersecurity, with a focus in reversing and packet analysis.
 
-My fascination for hacker culture came at a young age when words like _phreak_, _cracker_, and _leet_ were still relevant  to the underground colloquial. In the past decade, _hacking_, a term once abused by media to describe the delinquent activities of cyberpunks, eventually matured into the civilized and socially integrated practice we know today. Not only had it evolved into an academic discipline but, more importantly, a tool fundamental to our survival. Cyberterrorism, cyberwarfare, cybercrime...I believe that by necessity, cybersecurity becomes my purpose in life.
+My fascination for hacker culture came at a young age when words like _phreak_, _cracker_, and _leet_ were still relevant  to the underground colloquial. In the past decade, _hacking_, a term once abused by media to describe the delinquent activities of cyberpunks, eventually matured into the civilized and socially integrated practice we know today. Not only had it evolved into an academic discipline but also, more importantly, a tool fundamental to our survival. Cyberterrorism, cyberwarfare, cybercrime...I believe that by necessity, cybersecurity becomes my purpose in life.
 
 Ping me at *pyxozjhi@protonmail.com* or *+14153356746*
 
