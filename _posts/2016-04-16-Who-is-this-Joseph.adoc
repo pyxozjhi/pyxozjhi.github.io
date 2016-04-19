@@ -3,7 +3,7 @@
 
 I'm an *IT professional* living in *San Francisco*. For the time being, this blog will center around my beginnings in reverse engineering and packet analysis.
 
-My fascination for hacking came at a young age when _phreaking_, _warez_, and _leetspeak_ were still relevant in the internet underground. To no surprise, what once was believed to be a delinquent act carried out by cyberpunks would eventually find its acceptance by our culture, not only as a necessity, but also as an academic and socially integrated practice. And as the space further evolved into this rich and complex admixture of disciplines, it became an imperative for me to get more involved. Once my purpose came to fruition, I embarked upon a journey to finally pursue what is known today as _cybersecurity_.
+My fascination for hacking came at a young age when _phreaking_, _warez_, and _leetspeak_ were still relevant to the internet underground. To no surprise, what once was believed to be a delinquent act carried out by cyberpunks would eventually find its acceptance by our culture, not only as a necessity, but also as an academic and socially integrated practice. And as the space further evolved into this rich and complex admixture of disciplines, it became an imperative for me to get more involved. Once my purpose came to fruition, I embarked upon a journey to finally pursue what is known today as _cybersecurity_.
 
 Ping me at pyxozjhi@protonmail.com
 
