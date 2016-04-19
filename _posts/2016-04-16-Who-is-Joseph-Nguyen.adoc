@@ -5,4 +5,4 @@
 
 I'm an *IT professional* living in *San Francisco*. For the time being, this blog will focus on my ventures into reversing and packet analysis.
 
-My passion for security came at a young age when "Warez", "2600" and "Sub7" were still buzzwords in the cyberculture underground. To no surprise, what once was believed to be criminal activity would eventually find acceptance by our culture as an intelligent and socially integrated practice. And, albeit late, it was not until recent that my purpose would come into fruition, and that I would intimately pursue is now known as cybersecurity.
+My passion for security came at a young age when "Warez", "2600" and "Sub7" were still buzzwords in the cyberculture underground. To no surprise, what once was believed to be criminal activity would eventually find acceptance by our culture as an intelligent and socially integrated practice. And, albeit late, it was not until recent that my purpose would come into fruition, and that I would intimately pursue what we now know as cybersecurity.
