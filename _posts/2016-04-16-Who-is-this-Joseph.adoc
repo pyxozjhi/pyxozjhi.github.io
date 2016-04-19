@@ -3,7 +3,7 @@
 
 I'm an *IT professional* living in *San Francisco*. Besides various topics, this blog will mostly center around my beginnings in reversing and packet analysis.
 
-My fascination for hacker culture came at a young age when words like _phreak_, _cracker_, and _leet_ were still relevant to the underground colloquial. In the past decade, _hacking_, a term once used by media to describe the delinquent activities of cyberpunks, eventually matured into the socially integrated practice we see today. It has grown to the point of becoming an academic study but, more interestingly, a tool fundamental to our survival. It is indeed by necessity that hacking has evolved into such a rich and interconnected admixture of disciplines.
+My fascination for hacker culture came at a young age when words like _phreak_, _cracker_, and _leet_ were still relevant to the underground colloquial. In the past decade, _hacking_, a term once abused by media to describe the delinquent activities of cyberpunks, eventually matured into the civilized and socially integrated practice we see today. It has grown to the point of becoming an academic study but, more interestingly, a tool fundamental to our survival. It is indeed by necessity that hacking has evolved into such a rich and interconnected admixture of disciplines.
 
 Ping me at pyxozjhi@protonmail.com
 
