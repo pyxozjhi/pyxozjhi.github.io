@@ -3,6 +3,6 @@
 
 ## My crime is that of curiosity
 
-I'm an *IT professional* living in *San Francisco*. And this blog was created as a platform to document my venture into the infosec space.
+I'm an *IT professional* living in *San Francisco*. And this blog was created as a platform to document my venture into the infosec space. My focus for the time being will be reversing and packet analysis.
 
-My passion for security came at a young age when IRC, 2600 and Sub7 were still relevant in the cyberculture underground. Like most young adults, I would explore a great number of endeavors, before my true purpose came to fruition. Of course, to no surprise, the technology has already evolved 
+My passion for security came at a young age when IRC, 2600 and Sub7 were still relevant in the cyberculture underground. To no surprise, hacker culture has matured into something that could be fully integrated by society. It was not until recent that my purpose would come into fruition, and that I would intimately pursue what we know now as cybersecurity.
