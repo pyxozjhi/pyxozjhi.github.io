@@ -7,7 +7,7 @@ My fascination for hacking came at a young age when "2600", "Warez" and "Sub7" w
 
 ### Nota bene
 
-My study material is primarily security-related. For those who might be interested, I made some feeds available for you to peruse.
+My study material is primarily security-related. For those who'd be interested, I made some of those feeds available for you to peruse.
 
 * link::https://feedly.com/pyxozjhi[Feedly]
 * link::http://sharedli.st/pyxozjhi[Pocket]
