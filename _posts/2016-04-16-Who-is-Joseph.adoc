@@ -9,7 +9,7 @@ My passion for hacking came at a young age when "2600", "Warez" and "Sub7" were 
 
 ### This is not for you
 
-My news, books and podcast feeds are primarily security-related. You are free to peruse a few of those collections.
+My study material is primarily security-related. You are free to peruse a few of those collections.
 
 * link::https://feedly.com/pyxozjhi[Feedly]
 * link::http://sharedli.st/pyxozjhi[Pocket]
