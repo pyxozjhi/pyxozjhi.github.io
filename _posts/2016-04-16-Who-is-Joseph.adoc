@@ -3,11 +3,7 @@
 
 I'm an *IT professional* living in *San Francisco*. For the time being, these notes will center around my newfound venture into reversing and packet analysis.
 
-### My crime is that of curiosity
-
-My passion for hacking came at a young age when "2600", "Warez" and "Sub7" were still relevant buzzwords in the computing underground. To no surprise, what once was believed to be a disagreeable practice carried out by cyberpunks, would eventually find its acceptance by our culture as an academic and socially integrated study. Albeit late, it was not until my purpose came to fruition, that I would intimately pursue what we now know as _cybersecurity_.
-
-### This is not for you
+My passion for hacking came at a young age when "2600", "Warez" and "Sub7" were still relevant buzzwords in the computing underground. To no surprise, what once was believed to be a disagreeable practice carried out by cyberpunks, would eventually find its acceptance by our culture as an academic and socially integrated study. Albeit late, it was not until my purpose came to fruition, that I would intimately pursue what we know today as _cybersecurity_.
 
 My study material is primarily security-related. I made some of those collections available for you to peruse.
 
