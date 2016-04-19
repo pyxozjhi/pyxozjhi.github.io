@@ -1,8 +1,8 @@
 = Who is Joseph Nguyen?
 :hp-tags: personal, bio
 
-## My crime is that of curiosity
-
 I'm a *IT professional* living in *San Francisco*. For the time being, these notes will center around my ventures into reversing and packet analysis.
+
+### My crime is that of curiosity
 
 My passion for security came at a young age when "Warez", "2600" and "Sub7" were still buzzwords in the cyberculture underground. To no surprise, what once was believed to be a disagreeable practice carried out by cyberpunks, would eventually find its acceptance by our culture as an intellectual and socially integrated study. Albeit late, it was not until recent that my purpose would come into fruition, and that I would intimately pursue what we now know as cybersecurity.
