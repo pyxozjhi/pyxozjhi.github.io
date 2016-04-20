@@ -1,0 +1,9 @@
+= *NIX porn
+
+image::screenshots/scrot/2016-03-12-221257_1920x1080_scrot.png[]
+
+FreeBSD, OpenBox, urxvt, zsh, weechat
+
+image::screenshots/scrot/2016-04-17-123237_1440x900_scrot.png[]
+
+Debian, OpenBox, urxvt, zsh, htop, wavemon, iftop, openvpn, vim
