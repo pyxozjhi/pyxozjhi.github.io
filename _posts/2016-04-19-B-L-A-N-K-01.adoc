@@ -1,12 +1,1 @@
-= *NIX porn
-:hp-tags: personal, screenshots, nix
-
-
-
-image::screenshots/scrot/2016-03-12-221257_1920x1080_scrot.png[]
-
-HP Compaq dc7800, FreeBSD, OpenBox, urxvt, zsh, weechat, radare2
-
-image::screenshots/scrot/2016-04-17-123237_1440x900_scrot.png[]
-
-MacBookAir6,2; Debian, OpenBox, urxvt, zsh, htop, wavemon, iftop, openvpn, vim
+= BLANK_01
